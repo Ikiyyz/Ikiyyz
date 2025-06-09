@@ -16,7 +16,7 @@
 🌱 **Currently Learning:** Fullstack Development (Backend Focus)  
 🏫 **Status:** Bootcamp Student - Fullstack Developer  
 💡 **Passion:** Backend Development & Server-Side Logic  
-📍 **Location:** Indonesia  
+📍 **Location:** Sumedang, Jatinangor 
 
 ---
 
